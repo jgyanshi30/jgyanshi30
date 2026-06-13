@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gyanshi Jain</h1>
-<h3 align="center">Passionate about harnessing thee power of technology.</h3>
+<h3 align="center">Passionate about harnessing the power of technology.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jgyanshi30&label=Profile%20views&color=0e75b6&style=flat" alt="jgyanshi30" /> </p>
 
